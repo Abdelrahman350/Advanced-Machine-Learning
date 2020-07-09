@@ -1,2 +1,3 @@
 # Advanced-Machine-Learning
-In this Rebository, I put my solutions to Advanced Machine Learning Specialization on coursera. Introduced by by National Research University Higher School of Economics. 
+
+This specialization gives an introduction to deep learning, reinforcement learning, natural language understanding, computer vision and Bayesian methods. Top Kaggle machine learning practitioners and CERN scientists will share their experience of solving real-world problems and help you to fill the gaps between theory and practice. Upon completion of 7 courses you will be able to apply modern machine learning methods in enterprise and understand the caveats of real-world data and settings.
