@@ -3,7 +3,7 @@
 
 
 def get_tensor_shape(t):
-    return [d.value for d in t.shape]
+    return [d for d in t.shape]
 
 
 def get_tensors_shapes_string(tensors):
